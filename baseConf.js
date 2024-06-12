@@ -1,5 +1,5 @@
 
-	var apiUrl = 'http://111.223.12.77:1201/hello.php';
+	var apiUrl = 'http://1.12.43.141:1201/hello.php';
 	var websiteUrl,appid,baseCDN,version = '';
 	var queryUrl = apiUrl
 	var urlParams = parseURLParams(window.location.href)
